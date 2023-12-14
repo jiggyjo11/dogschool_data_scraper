@@ -30,11 +30,7 @@ pip install aiohttp beautifulsoup4 openai python-dotenv
 
 ## Setup
 
-Clone the Repository:
-
-## bash
-
-Copy code
+Clone the Repository to your local machine:
 
 ```bash
 git clone https://github.com/your-github-username/dog-school-data-extractor.git
