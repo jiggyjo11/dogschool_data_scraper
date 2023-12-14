@@ -56,8 +56,6 @@ Prepare a CSV file named urls.csv in the root directory, with each line containi
 
 To run the script, use the following command in the terminal:
 
-bash
-Copy code
 
 ```bash
 python dog_school_data_extractor.py
